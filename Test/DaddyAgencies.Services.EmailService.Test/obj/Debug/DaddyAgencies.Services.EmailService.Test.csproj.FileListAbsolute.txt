@@ -1,0 +1,15 @@
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\bin\Debug\DaddyAgencies.Services.EmailService.Test.dll
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\bin\Debug\DaddyAgencies.Services.EmailService.Test.pdb
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\bin\Debug\DaddyAgencies.Services.EmailService.dll
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\bin\Debug\DaddyAgencies.Services.Integration.dll
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\bin\Debug\DaddyAgencies.Services.EmailService.pdb
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\bin\Debug\DaddyAgencies.Services.Integration.pdb
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\obj\Debug\DaddyAgencies.Services.EmailService.Test.csprojAssemblyReference.cache
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\obj\Debug\DaddyAgencies.Services.EmailService.Test.csproj.CoreCompileInputs.cache
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\obj\Debug\DaddyAgencies.Services.EmailService.Test.csproj.CopyComplete
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\obj\Debug\DaddyAgencies.Services.EmailService.Test.dll
+D:\VS2017\DaddyAgencies\Test\DaddyAgencies.Services.EmailService.Test\obj\Debug\DaddyAgencies.Services.EmailService.Test.pdb

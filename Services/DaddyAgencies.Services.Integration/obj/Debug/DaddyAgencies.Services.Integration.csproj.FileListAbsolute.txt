@@ -1,0 +1,5 @@
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Integration\bin\Debug\DaddyAgencies.Services.Integration.dll
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Integration\bin\Debug\DaddyAgencies.Services.Integration.pdb
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Integration\obj\Debug\DaddyAgencies.Services.Integration.csproj.CoreCompileInputs.cache
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Integration\obj\Debug\DaddyAgencies.Services.Integration.dll
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Integration\obj\Debug\DaddyAgencies.Services.Integration.pdb

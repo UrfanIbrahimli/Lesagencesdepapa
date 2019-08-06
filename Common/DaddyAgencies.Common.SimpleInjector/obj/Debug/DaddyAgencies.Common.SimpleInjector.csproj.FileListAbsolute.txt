@@ -1,0 +1,12 @@
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.SimpleInjector\bin\Debug\DaddyAgencies.Common.SimpleInjector.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.SimpleInjector\bin\Debug\DaddyAgencies.Common.SimpleInjector.pdb
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.SimpleInjector\bin\Debug\FluentValidation.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.SimpleInjector\bin\Debug\System.ComponentModel.Annotations.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.SimpleInjector\bin\Debug\System.ComponentModel.Primitives.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.SimpleInjector\bin\Debug\System.ValueTuple.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.SimpleInjector\bin\Debug\FluentValidation.xml
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.SimpleInjector\bin\Debug\System.ValueTuple.xml
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.SimpleInjector\obj\Debug\DaddyAgencies.Common.SimpleInjector.csproj.CoreCompileInputs.cache
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.SimpleInjector\obj\Debug\DaddyAgencies.Common.SimpleInjector.csproj.CopyComplete
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.SimpleInjector\obj\Debug\DaddyAgencies.Common.SimpleInjector.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.SimpleInjector\obj\Debug\DaddyAgencies.Common.SimpleInjector.pdb

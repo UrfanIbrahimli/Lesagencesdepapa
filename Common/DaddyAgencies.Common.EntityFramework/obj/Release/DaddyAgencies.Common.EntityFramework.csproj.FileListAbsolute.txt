@@ -1,0 +1,12 @@
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework\bin\Release\DaddyAgencies.Common.EntityFramework.dll.config
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework\bin\Release\DaddyAgencies.Common.EntityFramework.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework\bin\Release\DaddyAgencies.Common.EntityFramework.pdb
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework\bin\Release\EntityFramework.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework\bin\Release\EntityFramework.SqlServer.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework\bin\Release\EntityFramework.xml
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework\bin\Release\EntityFramework.SqlServer.xml
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework\obj\Release\DaddyAgencies.Common.EntityFramework.csprojAssemblyReference.cache
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework\obj\Release\DaddyAgencies.Common.EntityFramework.csproj.CoreCompileInputs.cache
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework\obj\Release\DaddyAgencies.Common.EntityFramework.csproj.CopyComplete
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework\obj\Release\DaddyAgencies.Common.EntityFramework.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework\obj\Release\DaddyAgencies.Common.EntityFramework.pdb

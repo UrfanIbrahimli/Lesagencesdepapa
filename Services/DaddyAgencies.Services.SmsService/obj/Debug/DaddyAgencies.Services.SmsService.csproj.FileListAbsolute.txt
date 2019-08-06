@@ -1,0 +1,9 @@
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.SmsService\bin\Debug\DaddyAgencies.Services.SmsService.dll
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.SmsService\bin\Debug\DaddyAgencies.Services.SmsService.pdb
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.SmsService\bin\Debug\DaddyAgencies.Services.Integration.dll
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.SmsService\bin\Debug\DaddyAgencies.Services.Integration.pdb
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.SmsService\obj\Debug\DaddyAgencies.Services.SmsService.csprojAssemblyReference.cache
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.SmsService\obj\Debug\DaddyAgencies.Services.SmsService.csproj.CoreCompileInputs.cache
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.SmsService\obj\Debug\DaddyAgencies.Services.SmsService.csproj.CopyComplete
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.SmsService\obj\Debug\DaddyAgencies.Services.SmsService.dll
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.SmsService\obj\Debug\DaddyAgencies.Services.SmsService.pdb

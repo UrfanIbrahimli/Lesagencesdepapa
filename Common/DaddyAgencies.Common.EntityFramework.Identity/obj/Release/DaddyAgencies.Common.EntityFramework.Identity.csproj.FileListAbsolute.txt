@@ -1,0 +1,17 @@
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\bin\Release\DaddyAgencies.Common.EntityFramework.Identity.dll.config
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\bin\Release\DaddyAgencies.Common.EntityFramework.Identity.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\bin\Release\DaddyAgencies.Common.EntityFramework.Identity.pdb
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\bin\Release\DaddyAgencies.Common.EntityFramework.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\bin\Release\EntityFramework.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\bin\Release\EntityFramework.SqlServer.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\bin\Release\Microsoft.AspNet.Identity.Core.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\bin\Release\DaddyAgencies.Common.EntityFramework.pdb
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\bin\Release\DaddyAgencies.Common.EntityFramework.dll.config
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\bin\Release\EntityFramework.xml
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\bin\Release\EntityFramework.SqlServer.xml
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\bin\Release\Microsoft.AspNet.Identity.Core.xml
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\obj\Release\DaddyAgencies.Common.EntityFramework.Identity.csprojAssemblyReference.cache
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\obj\Release\DaddyAgencies.Common.EntityFramework.Identity.csproj.CoreCompileInputs.cache
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\obj\Release\DaddyAgencies.Common.EntityFramework.Identity.csproj.CopyComplete
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\obj\Release\DaddyAgencies.Common.EntityFramework.Identity.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.EntityFramework.Identity\obj\Release\DaddyAgencies.Common.EntityFramework.Identity.pdb

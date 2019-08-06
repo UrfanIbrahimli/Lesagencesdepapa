@@ -1,0 +1,17 @@
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\bin\Release\DaddyAgencies.Common.AutoMapper.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\bin\Release\DaddyAgencies.Common.AutoMapper.pdb
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\bin\Release\AutoMapper.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\bin\Release\DaddyAgencies.Common.EntityFramework.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\bin\Release\System.ValueTuple.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\bin\Release\EntityFramework.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\bin\Release\DaddyAgencies.Common.EntityFramework.pdb
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\bin\Release\DaddyAgencies.Common.EntityFramework.dll.config
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\bin\Release\AutoMapper.pdb
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\bin\Release\AutoMapper.xml
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\bin\Release\System.ValueTuple.xml
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\bin\Release\EntityFramework.xml
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\obj\Release\DaddyAgencies.Common.AutoMapper.csprojAssemblyReference.cache
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\obj\Release\DaddyAgencies.Common.AutoMapper.csproj.CoreCompileInputs.cache
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\obj\Release\DaddyAgencies.Common.AutoMapper.csproj.CopyComplete
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\obj\Release\DaddyAgencies.Common.AutoMapper.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.AutoMapper\obj\Release\DaddyAgencies.Common.AutoMapper.pdb

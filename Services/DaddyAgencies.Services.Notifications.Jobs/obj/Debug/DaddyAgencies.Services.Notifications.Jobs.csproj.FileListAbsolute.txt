@@ -1,0 +1,10 @@
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Notifications.Jobs\bin\Debug\DaddyAgencies.Services.Notifications.Jobs.dll
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Notifications.Jobs\bin\Debug\DaddyAgencies.Services.Notifications.Jobs.pdb
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Notifications.Jobs\bin\Debug\Quartz.dll
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Notifications.Jobs\bin\Debug\Quartz.pdb
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Notifications.Jobs\bin\Debug\Quartz.xml
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Notifications.Jobs\obj\Debug\DaddyAgencies.Services.Notifications.Jobs.csprojAssemblyReference.cache
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Notifications.Jobs\obj\Debug\DaddyAgencies.Services.Notifications.Jobs.csproj.CoreCompileInputs.cache
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Notifications.Jobs\obj\Debug\DaddyAgencies.Services.Notifications.Jobs.csproj.CopyComplete
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Notifications.Jobs\obj\Debug\DaddyAgencies.Services.Notifications.Jobs.dll
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.Notifications.Jobs\obj\Debug\DaddyAgencies.Services.Notifications.Jobs.pdb

@@ -1,0 +1,10 @@
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Contracts\bin\Release\DaddyAgencies.Common.Contracts.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Contracts\bin\Release\DaddyAgencies.Common.Contracts.pdb
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Contracts\bin\Release\DaddyAgencies.Common.Util.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Contracts\bin\Release\MediatR.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Contracts\bin\Release\DaddyAgencies.Common.Util.pdb
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Contracts\obj\Release\DaddyAgencies.Common.Contracts.csprojAssemblyReference.cache
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Contracts\obj\Release\DaddyAgencies.Common.Contracts.csproj.CoreCompileInputs.cache
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Contracts\obj\Release\DaddyAgencies.Common.Contracts.csproj.CopyComplete
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Contracts\obj\Release\DaddyAgencies.Common.Contracts.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Contracts\obj\Release\DaddyAgencies.Common.Contracts.pdb

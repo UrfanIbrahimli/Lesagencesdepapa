@@ -1,0 +1,9 @@
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.EmailService\bin\Debug\DaddyAgencies.Services.EmailService.dll
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.EmailService\bin\Debug\DaddyAgencies.Services.EmailService.pdb
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.EmailService\bin\Debug\DaddyAgencies.Services.Integration.dll
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.EmailService\bin\Debug\DaddyAgencies.Services.Integration.pdb
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.EmailService\obj\Debug\DaddyAgencies.Services.EmailService.csprojAssemblyReference.cache
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.EmailService\obj\Debug\DaddyAgencies.Services.EmailService.csproj.CoreCompileInputs.cache
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.EmailService\obj\Debug\DaddyAgencies.Services.EmailService.csproj.CopyComplete
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.EmailService\obj\Debug\DaddyAgencies.Services.EmailService.dll
+D:\VS2017\DaddyAgencies\Services\DaddyAgencies.Services.EmailService\obj\Debug\DaddyAgencies.Services.EmailService.pdb

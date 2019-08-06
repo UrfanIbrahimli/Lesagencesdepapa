@@ -1,0 +1,7 @@
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Util\bin\Debug\DaddyAgencies.Common.Util.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Util\bin\Debug\DaddyAgencies.Common.Util.pdb
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Util\obj\Debug\DaddyAgencies.Common.Util.Resources.UI.resources
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Util\obj\Debug\DaddyAgencies.Common.Util.csproj.GenerateResource.cache
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Util\obj\Debug\DaddyAgencies.Common.Util.csproj.CoreCompileInputs.cache
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Util\obj\Debug\DaddyAgencies.Common.Util.dll
+D:\VS2017\DaddyAgencies\Common\DaddyAgencies.Common.Util\obj\Debug\DaddyAgencies.Common.Util.pdb
